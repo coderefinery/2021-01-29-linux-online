@@ -1,5 +1,5 @@
 # Introduction to Linux and available computing resources
 
-### Aalto University and University of Oslo
+### January 29, 2021, Aalto University and University of Oslo (Online)
 
 ---
