@@ -1,5 +1,5 @@
-# Title
+# Introduction to Linux and available computing resources
 
-### Subtitle
+### Aalto University and University of Oslo
 
 ---
