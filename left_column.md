@@ -1,12 +1,16 @@
 
 
-### January 29, 2021
+### Registration
 
-Registration:
+We aim to not require registration if you will be only passively watching. Lurkers welcome.
+#### For participants from Aalto university
 
-[Please register at this link](https://docs.google.com/forms/d/e/1FAIpQLScuBRlKQ4X-ZVSUhoz8zLYSgAI5xH91Cg9hfkEHrjmerViy0Q/viewform). We aim to not require registration if you will be only passively watching. Lurkers welcome. Priority for Finnish academic institutions (FGCI members) and University of Oslo (Norway).
+<a class="btn btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLScuBRlKQ4X-ZVSUhoz8zLYSgAI5xH91Cg9hfkEHrjmerViy0Q/viewform" data-mode="1" target="_blank">Sign up </a><br> 
+Priority for Finnish academic institutions (FGCI members).
 
-
+#### For participants from University of Oslo
+<a class="btn btn-success" href="https://uio.pameldingssystem.no/registration-course-id-5" data-mode="1" target="_blank">Sign up </a><br>
+Open only to researchers and students at University of Oslo. 
 
 ### Contact
 
@@ -34,17 +38,6 @@ See [workshop preparation](https://scicomp.aalto.fi/training/scip/intro-linux-aa
 
 Please connect 10 minutes early for icebreakers and introductions. Check the times EET (Finland) and CET (Norway).
 
-12:00–12:45: Workflows at Aalto (and other universities via breakout rooms)
-Material: Remote workflows at Aalto
-Q&A
-13:00–13:45: Introduction to Linux shell
-Q&A
-[14:00–14:45: Connecting to Triton as part of Feb 2021 / Triton Winter Kickstart.]
-[Not technically a part of this course, but a next step from this course and integrated here]
-Q&A
-
-
-Day 1
 - 12:00 EET - 12:45 EET (11:00 CET - 11:45 CET)
   [Computing resources at Aalto](https://scicomp.aalto.fi/triton/usage/workflows/)
   (Richard & Enrico)
