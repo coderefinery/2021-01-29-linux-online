@@ -39,10 +39,12 @@ See [workshop preparation](https://scicomp.aalto.fi/training/scip/intro-linux-aa
 Please connect 10 minutes early for icebreakers and introductions. Check the times EET (Finland) and CET (Norway).
 
 - 12:00 EET - 12:45 EET (11:00 CET - 11:45 CET)
-  [Computing resources at Aalto](https://scicomp.aalto.fi/triton/usage/workflows/)
-  (Richard & Enrico)
-  or  [Computing resources at the University of Oslo]()
-  (Anne & Sabry)
+  Computing resources
+  - General introduction
+  - Institute specific discussion
+    - [Computing resources at Aalto](https://scicomp.aalto.fi/triton/usage/workflows/) (Richard & Enrico) - continued by Twitch
+    - Computing resources at the University of Oslo (Anne & Sabry) - in a Zoom room
+- 12:45 - 13:00 EET (11:45 - 12:00 CET) Break
 - 13:00 EET - 13:45 EET (12:00 CET - 12:45 CET) 
   Introduction to Linux shell
   (Richard & Enrico)
