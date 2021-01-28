@@ -7,7 +7,9 @@ This course is especially suitable to new researchers or students trying to unde
 
 - Richard Darst
 - Enrico Glerean
-- Anne Fouilloux (Oslo domain specific part)
+- Anne Fouilloux (UiO domain specific part)
+- Naoe Tatara (UiO)
+- Sabry Razick (UiO)
 
 ### Helpers
 
